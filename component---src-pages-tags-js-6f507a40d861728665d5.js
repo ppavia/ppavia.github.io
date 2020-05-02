@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"7t0V":function(n,t,u){"use strict";t.a=function(n){return n.children}},enK5:function(n,t,u){"use strict";u.r(t),u.d(t,"default",(function(){return i}));u("q1tI");var c=u("7t0V"),e=u("qKvR");function i(){return Object(e.a)(c.a,null,Object(e.a)("div",null,Object(e.a)("h1",null,"Tags !")))}}}]);
+//# sourceMappingURL=component---src-pages-tags-js-6f507a40d861728665d5.js.map
